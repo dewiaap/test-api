@@ -1,0 +1,16 @@
+{
+  "mahasiswa": [
+    {
+      "nim": "205102976184",
+      "nama": "Nanda",
+      "prodi": "PTI",
+      "fakultas": "Ilmu Komputer"
+    },
+    {
+      "nim": "250194149374",
+      "nama": "dewik",
+      "prodi": "SI",
+      "fakultas": "Ilmu Komputer"
+    }
+  ]
+}
